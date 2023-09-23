@@ -1626,7 +1626,7 @@ input, select, textarea {
 			border: 0;
 			box-shadow: inset 0 0 0 1px #e6e6e6;
 			border-radius: 100%;
-			color: #aaa;
+			color: #3564bb;
 		}
 
 			ul.icons a:hover {
@@ -1644,7 +1644,7 @@ input, select, textarea {
 		ul.menu li {
 			display: inline-block;
 			line-height: 1em;
-			border-left: solid 1px #e6e6e6;
+			border-left: solid 1px #5e1111;
 			padding: 0 0 0 0.5em;
 			margin: 0 0 0 0.5em;
 		}
@@ -1898,11 +1898,11 @@ input, select, textarea {
 	}
 
 	form ::-webkit-input-placeholder {
-		color: #aaa !important;
+		color: #128646 !important;
 	}
 
 	form :-moz-placeholder {
-		color: #555 !important;
+		color: #1b4399 !important;
 	}
 
 	form ::-moz-placeholder {
@@ -2218,7 +2218,7 @@ input, select, textarea {
 	}
 
 		.main > header {
-			background: #fff;
+			background: #6d089c;
 			text-align: center;
 			padding: 5em 0 5em 0;
 			margin: 0;
@@ -2272,13 +2272,13 @@ input, select, textarea {
 		margin: 0;
 		text-align: center;
 		padding: 4em 0 8em 0;
-		box-shadow: inset 0 1px 0 0 #e6e6e6;
+		box-shadow: inset 0 1px 0 0 #121caf;
 	}
 
 		#footer .copyright {
 			margin-top: 3em;
 			font-size: 0.8em;
-			color: #aaa;
+			color: #1f16a5;
 		}
 
 			#footer .copyright a {
@@ -2286,7 +2286,7 @@ input, select, textarea {
 			}
 
 		#footer ul.icons a {
-			box-shadow: inset 0 0 0 1px #d6d6d6;
+			box-shadow: inset 0 0 0 1px #4a07b6;
 		}
 
 /* Wide */
